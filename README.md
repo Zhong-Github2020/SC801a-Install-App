@@ -1,5 +1,5 @@
 # SC801a-Install-App
-install APK to SC801a 口袋阅一代
+install APK to SC801a 口袋阅一代安装第三方app <br>
 Version SC801a.V91.202005271040 <br>
 问题：这一版本的口袋阅在与电脑连接时，进入电子书后将与电脑的连接断开。<br>
 解决方法：打开拨号界面，输入＊＃＊＃5858＃＊＃＊打开开发者选项，打开usb调试。<br>
